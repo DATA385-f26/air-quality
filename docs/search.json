@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "alexander_stevens.html",
+    "href": "alexander_stevens.html",
+    "title": "Data Collection Facts Label",
+    "section": "",
+    "text": "Data Source Facts Label\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource Identity\n\n\n\n\n\n\nSource name\n\n\nAir Quality and Health Impacts\n\n\n\n\nDomain/topic\n\n\nAir Quality and Health\n\n\n\n\nSource type\n\n\nGovernment dataset\n\n\n\n\n\n\n\n\n\n\n\nCollection Context\n\n\n\n\n\n\nCollector/producer\n\n\nNYC Department of Health and Mental Hygiene (DOHMH)\n\n\n\n\nOriginal purpose\n\n\nExamine the pollutants in the air and their effects on public health\n\n\n\n\nCollection method\n\n\nSensors that measure pollution in air and hospital records\n\n\n\n\nRecord-creation event\n\n\nAverage air quality sensor reading and hospital records being summarized over a given time period\n\n\n\n\n\n\n\n\n\n\n\nObservation and Scope\n\n\n\n\n\n\nUnit of observation\n\n\nA sensor reading of the average number of particles for either the whole year or a part of the year or summarized health data from hospital records over years\n\n\n\n\nPopulation or objects represented\n\n\nParticles in the air from different regions of New York city along with health outcomes from people of those areas\n\n\n\n\nTime period covered\n\n\n2005-2024\n\n\n\n\nGeographic area coverage\n\n\nNew York City and different regions in it\n\n\n\n\n\n\n\n\n\n\n\nVariables and Data Structure\n\n\n\n\n\n\nMain variables/fields\n\n\nName, Measure, Measure Info, Geo Place Name, Time Period, Data Value\n\n\n\n\nData types included\n\n\nID, numerical, categorical, text, date\n\n\n\n\nDirect measurements\n\n\nGeo Place Name, Time Period, Start_Date, Data Value\n\n\n\n\nPossible proxy variables\n\n\nData Value\n\n\n\n\n\n\n\n\n\n\n\nDocumentation\n\n\n\n\n\n\nDocumentation found\n\n\nhttps://catalog.data.gov/dataset/air-quality?from_hint=eyJxIjoiYWlyIiwic29ydCI6InBvcHVsYXJpdHkifQ%3D%3D https://data.cityofnewyork.us/Environment/Air-Quality-and-Health-Impacts/c3uy-2p5r/about_data https://a816-dohbesp.nyc.gov/IndicatorPublic/data-features/realtime-air-quality/\n\n\n\n\nStated collection details\n\n\nThe data comes from street-level monitors that measure ground-level exposures of air particles"
+  },
+  {
+    "objectID": "robert_williams.html",
+    "href": "robert_williams.html",
+    "title": "Data Collection Facts Label",
+    "section": "",
+    "text": "Data Source Facts Label\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource Identity\n\n\n\n\n\n\nSource name\n\n\nAir Quality Purple Air Sensors\n\n\n\n\nDomain/topic\n\n\nDOEE’s Purple Air network in the District of Columbia\n\n\n\n\nSource type\n\n\nGovernment Collected Data Set\n\n\n\n\n\nCollection Context\n\n\n\n\n\n\nCollector/producer\n\n\nDOEE\n\n\n\n\nOriginal purpose\n\n\nTakes Meteorological data to get an understanding of “hyper-local” air quality data.\n\n\n\n\nCollection method\n\n\nUses sensor’s to detect PM2.5 and PM10\n\n\n\n\nRecord-creation event\n\n\nWhen sensor is Logged\n\n\n\n\n\nObservation and Scope\n\n\n\n\n\n\nUnit of observation\n\n\nHourly measurements. Takes in PM2.5 and PM10 as well as meteorological measurements.\n\n\n\n\nPopulation or objects represented\n\n\nAtmosphere, Humidity\n\n\n\n\nTime period covered\n\n\nPeriod of 5 months from Febuary of 2025 to 2026\n\n\n\n\nGeographic area coverage\n\n\nDistrict of Columbia\n\n\n\n\n\nVariables and Data Structure\n\n\n\n\n\n\nMain variables/fields\n\n\nHumidity, Temperature, Pressure, Latitude, Longitude\n\n\n\n\nData types included\n\n\nLocation, Time, GPS, Sensors\n\n\n\n\nDirect measurements\n\n\nPM1, PM2_5 PM10\n\n\n\n\nPossible proxy variables\n\n\nAir flow, WInd direction, Weather.\n\n\n\n\n\nDocumentation\n\n\n\n\n\n\nDocumentation found\n\n\nResources\n\n\n\n\nStated collection details\n\n\nDocumentation"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Investigating a Dataset’s Ingredients",
+    "section": "",
+    "text": "We chose to investigate air quality in America. We wanted to investigate this because Chico oftentimes has air quality in the unsafe ranges and we want to know if this is true for other cities as well."
+  },
+  {
+    "objectID": "index.html#topic-area",
+    "href": "index.html#topic-area",
+    "title": "Investigating a Dataset’s Ingredients",
+    "section": "",
+    "text": "We chose to investigate air quality in America. We wanted to investigate this because Chico oftentimes has air quality in the unsafe ranges and we want to know if this is true for other cities as well."
+  },
+  {
+    "objectID": "index.html#research-question",
+    "href": "index.html#research-question",
+    "title": "Investigating a Dataset’s Ingredients",
+    "section": "Research Question",
+    "text": "Research Question\nOur research question is: how has air quality changed over time in America?"
+  }
+]

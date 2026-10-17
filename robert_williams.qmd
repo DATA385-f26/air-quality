@@ -10,6 +10,7 @@ execute:
 library(tidyverse)
 # library(knitr)
 library(kableExtra)
+googlesheets4::gs4_deauth()
 dsfl <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/15LEFiW9gxhY7HDBs3RW4Yiln5Frbp1g_LgtFKq24xUE/edit?gid=0#gid=0")
 ```
 

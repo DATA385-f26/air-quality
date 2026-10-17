@@ -19,8 +19,8 @@ website:
         menu:
         - text: "Alexander Stevens"
           href: alexander_stevens.qmd
-        - text: "Person 2"
-          href: person2.qmd
+        - text: "Robert Williams"
+          href: robert_williams.qmd
       - text: "Comparative Analysis"
         href: comparison.qmd
 

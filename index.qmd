@@ -4,8 +4,8 @@ title: "Investigating a Dataset's Ingredients"
 
 ## Topic Area
 
-Introduce your topic area. What did you choose, why did you choose it? 
+We chose to investigate air quality in America. We wanted to investigate this  because Chico oftentimes has air quality in the unsafe ranges and we want to know if this is true for other cities as well.
 
 ## Research Question
 
-State your research question that you hope to answer with data. 
+Our research question is: how has air quality changed over time in America? 
