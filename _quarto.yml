@@ -22,7 +22,7 @@ website:
         - text: "Robert Williams"
           href: robert_williams.qmd
       - text: "Comparative Analysis"
-        href: comparison.qmd
+        href: analysis.qmd
 
 format:
   html:

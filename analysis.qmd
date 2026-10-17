@@ -1,0 +1,34 @@
+---
+title: "Comparative Analysis"
+format: html
+---
+
+General Topic: Air quality
+
+Specific RQ: How is air quality changing over time? 
+
+Data set names:
+
+  1. [“Air quality and health impacts”](https://catalog.data.gov/dataset/air-quality?from_hint=eyJxIjoiYWlyIiwic29ydCI6InBvcHVsYXJpdHkifQ%3D%3D)
+  2.  [Air Quality Purple Air Sensors](https://catalog.data.gov/dataset/air-quality-purple-air-sensors?from_hint=eyJxIjoiQWlyIFF1YWxpdHkifQ%3D%3D)
+
+# Trustworthiness/reputability
+
+  Dataset 1 has documentation from NYC open data and data.gov. It’s not quite clear how exactly these values are calculated, like how many sensors are they getting the value from and are they averaging it out, or is it just one sensor. Since the dataset goes back to 2005 the sensor readings might be using old tools which aren’t as accurate which could be a potential problem
+Dataset 2 also has documentation from data.gov. The device used to measure is not made clear. The rows also sometimes contain missing data for unclear reasons. It is also not clear if the measurements are taken every hour or are measured continuously throughout the hour then averaged out.
+
+# Degree of relevance to research question
+
+  For both datasets the area where collections are gotten matters a lot. For example, if you take measurements right next to a roadway, there will be much more pollution due to car exhaust. If the measurements were taken away from a populated area then air quality might be better than what most people experience.
+ The device used by the testers and collectors can affect the results of the data depending upon the quality of the device and the device type. It can draw different conclusions due to accuracy and precision.
+	We are using the particulate matter measurements and PPB of different air particles as a proxy for measuring air quality in both of the datasets. 
+	To improve the sources we would add more documentation explaining the columns and more information about the sensors and how exactly those sensors measure things.
+
+# Ethical soundness
+
+Both sources could be biased into making air quality seem worse than it is to justify higher spending on their agencies as they are both government agencies. They also might have some investments in green energy companies or have family members that work for green energy companies that might benefit from city contracts with their company.
+
+# Scope
+
+In the first dataset, one row represents the air quality of different areas in New York City for winter, summer, or the yearly average of the region. In the second dataset, each row represents a time and geographic location of where the data was recorded and what they were testing for. Both datasets represent local pollution, and toxic gases and substances found in the air. They are both useful, but dataset 1 is more useful for our question because the data goes back to 2005 while with dataset 2 the data only goes back to February 2025. 
+	Using both datasets, someone could easily tell which times of the year have the worst air pollution. They could also compare the air pollution of areas in New York to that of Washington D.C to see which region has better overall air quality and in what metrics.
